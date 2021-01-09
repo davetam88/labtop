@@ -58,6 +58,7 @@ main {
   font-weight: bold;
 }
 
+/*  why 2 class name 2 times bug ?  */
 .feature__item + .feature__item {
   margin-top: 0.8rem;
 }
